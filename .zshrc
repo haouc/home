@@ -20,6 +20,7 @@ path+=/usr/local/go/bin
 path+=($HOME/go/bin)
 path+=($HOME/.cargo/bin)
 path+=($HOME/bin)
+path+=($HOME/workspaces/EKSOperatorPlatform/src/EKSAtlasAdm/build/bin)
 path+=(/opt/homebrew/bin)
 
 ##### Aliases #####
